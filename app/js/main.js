@@ -1,0 +1,1 @@
+let imgs = ['../img/background.png'];
